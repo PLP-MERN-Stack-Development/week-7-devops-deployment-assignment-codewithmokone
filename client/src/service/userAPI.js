@@ -4,7 +4,7 @@ const API = import.meta.env.VITE_API_URL
 
 export const fetchUserData = async (userId) => {
     try {
-        const response = await axios.get(`http://localhost:5000/api/auth/${userId}`);
+        const response = await axios.get(`${API}/api/auth/${userId}`);
         return response.data;
     } catch (error) {
         console.error('Failed to fetch user data:', error);
