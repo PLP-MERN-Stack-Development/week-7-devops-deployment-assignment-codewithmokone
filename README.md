@@ -76,3 +76,9 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Railway Documentation](https://docs.railway.app/)
 - [Vercel Documentation](https://vercel.com/docs)
 - [Netlify Documentation](https://docs.netlify.com/) 
+
+## Live Demo:
+
+- Frontend = week-7-devops-deployment-assignment-codewithmokone-61y9zjy3o.vercel.app
+
+- Backend = https://week-7-devops-deployment-assignment-c3bn.onrender.com
